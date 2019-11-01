@@ -2,7 +2,7 @@
 	var userName=document.getElementById("userName").value;
     var pwd=document.getElementById("pwd").value;
 		//修改密码请改此处
-    if(userName=="huruiyang" &&  pwd=="123"){
+    if(userName=="胡瑞洋" &&  pwd=="1106"){
 			event.preventDefault();
 			$('form').fadeOut(500);
 			$('.wrapper').addClass('form-success');
